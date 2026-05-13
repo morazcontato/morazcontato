@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="./assets/dragonball.gif" width="80%" />
+<img src="./assets/profile-animation.gif" alt="Animated profile banner" width="80%" />
 
 </div>
 
