@@ -102,7 +102,7 @@
 
 ---
 
-# 📸 Instagram · @morazcontato
+# 📸 Instagram · @morazzthecreative
 
 <div align="center">
 
