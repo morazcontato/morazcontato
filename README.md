@@ -80,6 +80,13 @@
 
 ---
 
+<!-- MZ3D CHARACTER -->
+<p align="center">
+  <img src="./assets/MZ3D.png" alt="MZ3D Moraz 3D Character" width="220" />
+</p>
+
+---
+
 ## 🐍 Snake eating contributions
 
 <picture>
