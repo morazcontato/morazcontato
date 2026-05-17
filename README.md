@@ -6,6 +6,10 @@
 
 <br/><br/>
 
+<img src="./assets/MZ3D.png" alt="MZ3D Moraz 3D Character" width="220" />
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=morazcontato&style=for-the-badge&color=ff004f&label=PROFILE+VIEWS" />
 
 <img src="https://img.shields.io/github/followers/morazcontato?style=for-the-badge&color=ff004f&label=FOLLOWERS" />
@@ -77,13 +81,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=morazcontato&bg_color=0D1117&color=ffffff&line=ff004f&point=ffffff&area=true&hide_border=true" />
 
 </div>
-
----
-
-<!-- MZ3D CHARACTER -->
-<p align="center">
-  <img src="./assets/MZ3D.png" alt="MZ3D Moraz 3D Character" width="220" />
-</p>
 
 ---
 
