@@ -110,6 +110,12 @@
 
 <div align="center">
 
+<!-- LUIGIGIF_START -->
+<img src="./assets/luigi.gif" width="520" alt="Mario and Luigi pixel animation" />
+<!-- LUIGIGIF_END -->
+
+<br/><br/>
+
 <img src="./assets/instafoto.png" alt="Foto perfil Instagram @morazzthecreative" width="170" style="border-radius:50%;" />
 
 <br/><br/>
