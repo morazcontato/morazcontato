@@ -6,6 +6,12 @@
 
 <br/><br/>
 
+<!-- LUIGIGIF_START -->
+<img src="./assets/luigi.gif" width="520" alt="Mario and Luigi pixel animation" />
+<!-- LUIGIGIF_END -->
+
+<br/><br/>
+
 <img src="./assets/MZ3D.png" alt="MZ3D Moraz 3D Character" width="220" />
 
 <br/><br/>
@@ -109,12 +115,6 @@
 # 📸 Instagram · @morazzthecreative
 
 <div align="center">
-
-<!-- LUIGIGIF_START -->
-<img src="./assets/luigi.gif" width="520" alt="Mario and Luigi pixel animation" />
-<!-- LUIGIGIF_END -->
-
-<br/><br/>
 
 <img src="./assets/instafoto.png" alt="Foto perfil Instagram @morazzthecreative" width="170" style="border-radius:50%;" />
 
