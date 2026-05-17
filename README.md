@@ -110,7 +110,7 @@
 
 <div align="center">
 
-<img src="./assets/instagram-preview.png" width="80%" />
+<img src="./assets/instafoto.png" alt="Foto perfil Instagram @morazzthecreative" width="170" style="border-radius:50%;" />
 
 <br/><br/>
 
