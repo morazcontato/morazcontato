@@ -98,8 +98,8 @@
 
 <div align="center">
 
-<a href="https://github.com/morazcontato">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=morazcontato&repo=aila-assistant&theme=radical&bg_color=0D1117&title_color=ff004f&text_color=ffffff&hide_border=true" />
+<a href="https://github.com/morazcontato/BLINDGLASSES">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=morazcontato&repo=BLINDGLASSES&theme=radical&bg_color=0D1117&title_color=ff004f&text_color=ffffff&hide_border=true" />
 </a>
 
 </div>
@@ -110,7 +110,7 @@
 
 <div align="center">
 
-<img src="./assets/instafoto.png" alt="Foto perfil Instagram @morazzthecreative" width="170" style="border-radius:50%;" />
+<img src="./assets/instafoto.png" alt="Foto perfil Instagram @morazzthecreative" width="170" />
 
 <br/><br/>
 
@@ -124,7 +124,7 @@
 
 <div align="center">
 
-<a href="mailto:contato@seudominio.com">
+<a href="mailto:morazcontato@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-ff004f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
 </a>
 
