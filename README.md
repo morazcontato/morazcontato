@@ -1,16 +1,10 @@
 # morazcontato-morazcontato
 
+<p align="center">
+  <img src="./assets/luigi.gif" width="110" alt="Luigi pixel animation" />
+</p>
+
 <div align="center">
-
-<img src="./assets/banner.svg" width="100%" />
-
-<br/><br/>
-
-<!-- LUIGIGIF_START -->
-<img src="./assets/luigi.gif" width="520" alt="Mario and Luigi pixel animation" />
-<!-- LUIGIGIF_END -->
-
-<br/><br/>
 
 <img src="./assets/MZ3D.png" alt="MZ3D Moraz 3D Character" width="220" />
 
